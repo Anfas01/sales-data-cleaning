@@ -51,3 +51,13 @@ exploratory data analysis (EDA) and further insights.
 ---
 
 ## 📁 Project Structure
+sales-data-cleaning/
+│
+├── data/
+│   ├── raw_videogame_sales.csv
+│   └── cleaned_videogame_sales.csv
+│
+├── notebooks/
+│   └── data_cleaning.ipynb
+│
+├── README.md
